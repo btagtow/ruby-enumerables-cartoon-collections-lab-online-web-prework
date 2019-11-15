@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(planeteer_calls) 
   planeteer_calls.collect do |array|
-    puts "#{array.capitilize}"
+    puts array.capitilize
   end 
   # Your code here
 end
