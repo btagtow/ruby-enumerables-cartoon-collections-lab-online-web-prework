@@ -8,6 +8,7 @@ end
 def summon_captain_planet(planeteer_calls) 
   planeteer_calls.each do |capitilize, expoint|
     puts "#{planeteer_calls.capitilize}" + "!"
+  end 
   # Your code here
 end
 
