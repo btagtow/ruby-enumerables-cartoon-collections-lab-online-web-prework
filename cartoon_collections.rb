@@ -2,12 +2,11 @@ def roll_call_dwarves(array)
   array.each_with_index do |dwarf,index| 
   puts "#{index+1}. #{dwarf}"
 end 
-  #a=[11,22,31,224,44].each_with_index { |val,index| puts "index: #{index} for #{val}" if val < 30}
+  #a=[11,22,31,224,44].each_with_index { |val,index| puts "index: #{index} for #{val}" if val < 30
+  
 
-  # Your code here
-end
-
-def summon_captain_planet# code an argument here
+def summon_captain_planet(planeteer_calls) 
+  planeteer_calls.each do |
   # Your code here
 end
 
