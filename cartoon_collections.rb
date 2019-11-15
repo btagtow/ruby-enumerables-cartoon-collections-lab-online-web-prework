@@ -1,7 +1,7 @@
 def roll_call_dwarves(array)
   array.each_with_index do |dwarf,index| 
     puts "#{index+1}. #{dwarf}"
-end 
+  end
   #a=[11,22,31,224,44].each_with_index { |val,index| puts "index: #{index} for #{val}" if val < 30
 end 
 
