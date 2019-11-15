@@ -15,7 +15,7 @@ def long_planeteer_calls(idk)
 end
 
 def find_the_cheese(array)
-  array.find { |index| index == "cheddar"
+  array.find { |index| index == "cheddar" || index == 
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
