@@ -3,7 +3,7 @@ def roll_call_dwarves(array)
   puts "#{index+1}. #{dwarf}"
 end 
   #a=[11,22,31,224,44].each_with_index { |val,index| puts "index: #{index} for #{val}" if val < 30
-  
+end 
 
 def summon_captain_planet(planeteer_calls) 
   planeteer_calls.each do |capitilize|
